@@ -40,7 +40,7 @@ public class EnviaPagamento {
 			if(pagamentoAceito){
 				System.out.println("Pagamento finalizado com sucesso.");
 			}else{
-				System.out.println("Pagamento n„o efetuado... tentando novamente");
+				System.out.println("Pagamento n√£o efetuado... tentando novamente");
 			}
 			
 		}catch(Exception e){
